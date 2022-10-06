@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shivsarthak
+- 👀 I’m interested in Cryptography and Application Development
+- 🌱 I’m currently learning blockchain and P2P communication
+- 💞️ I’m looking to collaborate on a decentralized network
+- 📫 Reach me at mail@shivsarthak.com

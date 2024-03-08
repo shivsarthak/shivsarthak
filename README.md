@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @shivsarthak
-- 👀 I’m interested in Cryptography and Application Development
-- 🌱 I’m currently learning blockchain and P2P communication
-- 💞️ I’m looking to collaborate on a decentralized network
-- 📫 Reach me at mail@shivsarthak.com
+![shivsarthak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivsarthak&theme=dracula&hide_border=true)
